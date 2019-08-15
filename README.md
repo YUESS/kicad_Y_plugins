@@ -3,7 +3,7 @@
 kicad plugins
 ------
 
-#1.  gen_pos_files.py  
+# 1.  gen_pos_files.py  
 
         导出器件位置信息，生成２个文件， 
         文件１：所有器件。  
