@@ -1,6 +1,12 @@
 # kicad plugin(s)
 
-这里是kicad中使用的一些插件
+这里是kicad中使用的一些插件  
+在ubuntu18.04下kicad 5.1.4中测试通过的  
+
+使用方法:  
+    把*.py文件复制到 ~/.config/kicad/scripting/plugins/  
+
+
 
 ## 1.  gen_pos_files.py  
 
